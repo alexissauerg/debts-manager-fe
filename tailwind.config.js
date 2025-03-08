@@ -26,6 +26,9 @@ const colors = {
     DEFAULT: "#ba4c40",
     dark: "#943b30",
   },
+  simpleGray: {
+    DEFAULT: "#f5f5f5",
+  },
 };
  
 module.exports = withMT({
